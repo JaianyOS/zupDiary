@@ -1,0 +1,8 @@
+
+spring:
+application:
+name: zup-diary
+
+server:
+port: 8005
+
